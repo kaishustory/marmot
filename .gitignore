@@ -21,5 +21,3 @@ target/
 
 # Log
 logs/
-src/main/resources/rebel.xml
-src/main/resources/application-zrd.yml
