@@ -1,0 +1,25 @@
+# Maven
+target/
+
+# IntelliJ IDEA
+*.iml
+*.iws
+*.ipr
+.idea/
+.mvn
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# SVN
+.svn/
+
+# macOS
+.DS_Store
+
+# Log
+logs/
+src/main/resources/rebel.xml
+src/main/resources/application-zrd.yml
