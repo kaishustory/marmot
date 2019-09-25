@@ -20,3 +20,9 @@ marmot目前支持三种不同的ID模型：全局唯一ID、随机规划ID、�
   Redis inc 原子加，返回顺序ID。
   
 ![全局顺序ID](https://github.com/kaishustory/marmot/blob/master/global.png)
+# 使用方式
+配置文件配置zookeeper、redis,按照按照标准的springboot启动方式启动service即可
+对应的接口服务如下:<br/>
+  全局唯一ID：IGlobalService::get<br/>
+  随机规划ID：IPlanService::get<br/>
+  顺序分片ID：ISegmentService::get
