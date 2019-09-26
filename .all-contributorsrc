@@ -22,6 +22,15 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "shelltea",
+      "name": "shelltea",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/864375?v=4",
+      "profile": "http://shelltea.github.io",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
