@@ -1,0 +1,23 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "liaoshiwei",
+      "name": "liaoshiwei",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/55678628?v=4",
+      "profile": "https://github.com/liaoshiwei",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "marmot",
+  "projectOwner": "kaishustory",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
