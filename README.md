@@ -1,5 +1,5 @@
 # marmot
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 marmot主要是统一多业务线的ID生成方式
 # ID模式
 marmot目前支持三种不同的ID模型：全局唯一ID、随机规划ID、顺序分片ID
@@ -38,6 +38,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/liaoshiwei"><img src="https://avatars1.githubusercontent.com/u/55678628?v=4" width="100px;" alt="liaoshiwei"/><br /><sub><b>liaoshiwei</b></sub></a><br /><a href="https://github.com/kaishustory/marmot/commits?author=liaoshiwei" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/liguoyangik"><img src="https://avatars3.githubusercontent.com/u/55503412?v=4" width="100px;" alt="李国洋"/><br /><sub><b>李国洋</b></sub></a><br /><a href="#design-liguoyangik" title="Design">🎨</a></td>
+    <td align="center"><a href="http://shelltea.github.io"><img src="https://avatars2.githubusercontent.com/u/864375?v=4" width="100px;" alt="shelltea"/><br /><sub><b>shelltea</b></sub></a><br /><a href="https://github.com/kaishustory/marmot/commits?author=shelltea" title="Code">💻</a></td>
   </tr>
 </table>
 
