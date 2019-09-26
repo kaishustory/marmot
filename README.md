@@ -26,3 +26,4 @@ marmot目前支持三种不同的ID模型：全局唯一ID、随机规划ID、�
   全局唯一ID：IGlobalService::get<br/>
   随机规划ID：IPlanService::get<br/>
   顺序分片ID：ISegmentService::get
+# 使用方式
