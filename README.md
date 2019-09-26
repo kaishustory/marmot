@@ -1,5 +1,4 @@
 # marmot
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 marmot主要是统一多业务线的ID生成方式
 # ID模式
 marmot目前支持三种不同的ID模型：全局唯一ID、随机规划ID、顺序分片ID
