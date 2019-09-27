@@ -146,17 +146,6 @@ public class Option<T> implements Serializable {
         }
     }
 
-    /**
-     * 转为返回结果
-     * @return
-     */
-    public Result toResult(){
-        if(error()){
-            return new Result(errcode, errmsg);
-        }else{
-            return new Result(errcode, value);
-        }
-    }
 
     public T getValue() {
         return value;
