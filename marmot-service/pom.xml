@@ -14,7 +14,7 @@
     <artifactId>marmot-service</artifactId>
 
     <properties>
-        <spring.version>2.0.3.RELEASE</spring.version>
+        <spring.version>2.5.12</spring.version>
         <logback.version>1.2.9</logback.version>
         <slf4j.version>1.7.21</slf4j.version>
         <kotlin.version>1.6.0</kotlin.version>
